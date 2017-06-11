@@ -1,0 +1,25 @@
+{
+  "name": "user-management-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.6.1",
+    "ejs": "^2.5.6",
+    "hbs": "^4.0.1",
+    "install": "^0.10.1",
+    "koa": "^2.2.0",
+    "koa-body": "^2.1.0",
+    "koa-mongo": "^0.7.0",
+    "koa-router": "^7.2.0",
+    "koa-views": "^6.0.2",
+    "multiline": "^1.0.2",
+    "mz": "^2.6.0",
+    "npm": "^5.0.3"
+  }
+}
